@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x8E64B436EF456fb61173959bE99902d1A9Eb09E5",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x8E64B436EF456fb61173959bE99902d1A9Eb09E5",
+  "CONTRACT_ADDRESS": "0x5945166B1e4412bC998C809d9FA02e9D0e13ed7a",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x5945166B1e4412bC998C809d9FA02e9D0e13ed7a",
   "NETWORK": {
     "NAME": "Rinkeby",
     "SYMBOL": "ETH",
@@ -8,11 +8,11 @@
   },
   "NFT_NAME": "Chilled Out Bears ",
   "SYMBOL": "COB",
-  "MAX_SUPPLY": 30,
-  "WEI_COST": 80000000000000000,
-  "DISPLAY_COST": 0.08,
+  "MAX_SUPPLY": 23,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/chilled-out-bears-test-v2",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/chilledoutbearstestv3",
   "SHOW_BACKGROUND": true
 }
