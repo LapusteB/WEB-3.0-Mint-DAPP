@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x5945166B1e4412bC998C809d9FA02e9D0e13ed7a",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x5945166B1e4412bC998C809d9FA02e9D0e13ed7a",
+  "CONTRACT_ADDRESS": "0xD0a50386af99E0674e3b708aB0bEac909697b70F",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xD0a50386af99E0674e3b708aB0bEac909697b70F",
   "NETWORK": {
     "NAME": "Rinkeby",
     "SYMBOL": "ETH",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/chilledoutbearstestv3",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/chilledoutbearsv4",
   "SHOW_BACKGROUND": true
 }
