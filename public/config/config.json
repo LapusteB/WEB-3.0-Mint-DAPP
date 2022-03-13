@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xcEf9AB4B9e91E4846e0cebB59f56c15008b3A28F",
-  "SCAN_LINK": "https://etherscan.io/address/0xcEf9AB4B9e91E4846e0cebB59f56c15008b3A28F",
+  "CONTRACT_ADDRESS": "0x28f61a42499f488A160Bc353d5aaf4f516E7019D",
+  "SCAN_LINK": "https://etherscan.io/address/0x28f61a42499f488a160bc353d5aaf4f516e7019d",
   "NETWORK": {
     "NAME": "ETH",
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "Chilled Out Bears",
+  "NFT_NAME": "Chilled Out Bears Official",
   "SYMBOL": "COB",
   "MAX_SUPPLY": 5000,
   "WEI_COST": 50000000000000000,
   "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 885000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/chilled-out-bears",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/chilled-out-bears-official",
   "SHOW_BACKGROUND": true
 }
